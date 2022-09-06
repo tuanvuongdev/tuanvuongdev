@@ -12,10 +12,10 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=phamtuanvuong&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️ Quote From Me ^^
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+### 😂 Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
