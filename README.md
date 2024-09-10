@@ -15,10 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a Frontend Software Engineer with 2 years of experience in Web Development. I
-also have a year of experience in Java-related technologies. With my passion for Web Development, I enjoy solving front-end problems and creating
-the best user experience for users. At the same time, I am learning new technologies and
-best practices to become a better engineer.  
+Graduated from FPT University with a major in Software Engineering. Currently, I am a Frontend Software Engineer with 2 years of experience in web development. I also have a year of experience with Java-related technologies. With my passion for web development, I enjoy solving front-end problems and creating the best user experience for users. At the same time, I am learning new technologies and best practices to become a better engineer. 
   
 
 <br/>  
